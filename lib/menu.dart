@@ -1,13 +1,8 @@
 import 'package:flutter/material.dart';
 
-class MyHomePage extends StatefulWidget {
+class MyHomePage extends StatelessWidget {
   MyHomePage({Key? key}) : super(key: key);
 
-  @override
-  _MyHomePageState createState() => _MyHomePageState();
-}
-
-class _MyHomePageState extends State<MyHomePage> {
   final List<ShopItem> items = [
     ShopItem("Lihat Produk", Icons.checklist),
     ShopItem("Tambah Produk", Icons.add_shopping_cart),
