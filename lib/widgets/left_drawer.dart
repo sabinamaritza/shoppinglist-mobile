@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:shoppinglist/screens/menu.dart';
-// TODO: Impor halaman ShopFormPage jika sudah dibuat
 import 'package:shoppinglist/screens/shoplist_form.dart';
 import 'package:shoppinglist/screens/list_product.dart';
 
