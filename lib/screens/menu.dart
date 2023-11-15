@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:shoppinglist/screens/widgets/left_drawer.dart';
-import 'package:shoppinglist/screens/widgets/shop_card.dart';
+import 'package:shoppinglist/widgets/left_drawer.dart';
+import 'package:shoppinglist/widgets/shop_card.dart';
 
 class MyHomePage extends StatelessWidget {
   MyHomePage({Key? key}) : super(key: key);
