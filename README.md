@@ -1,3 +1,7 @@
+[![Build status](https://build.appcenter.ms/v0.1/apps/f1c886ba-4882-4a12-b7c1-3ffbe83bf205/branches/main/badge)](https://appcenter.ms)
+
+https://install.appcenter.ms/orgs/shoppinglist-sabina/apps/shopping-list/distribution_groups/public
+
 # shoppinglist
 
 A new Flutter project.
